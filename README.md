@@ -1,8 +1,8 @@
-# Author: Fatima Zahra Al Hajji
-# student ID: 2188877
-# Date: 08.04.2024
+### Author: Fatima Zahra Al Hajji
+### student ID: 2188877
+### Date: 08.04.2024
 
-# This file will help you understand how my code is split and how they all link together.
+### This file will help you understand how my code is split and how they all link together.
 
 The files are split into 3 directories:
     -> Data Curation
